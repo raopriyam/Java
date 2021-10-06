@@ -1,3 +1,3 @@
 # C#
 
-This
+This repositories contains leetcode 
