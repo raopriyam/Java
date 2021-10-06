@@ -1,3 +1,3 @@
 # C#
 
-This repositories contains leetcode 
+This repositories contains leetcode problem solutions in csharp.
